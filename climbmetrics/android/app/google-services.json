@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1037267385165",
+    "project_id": "climbmetrics",
+    "storage_bucket": "climbmetrics.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1037267385165:android:9420c8c1ae4c428a40d504",
+        "android_client_info": {
+          "package_name": "com.example.climbmetrics"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNa32GRtePdDoB2t03EVx5u_01abXGuRM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
